@@ -1,4 +1,4 @@
->### Change 2: remove info in regards to forking the github reposiory
+> Change 2: remove info in regards to forking the github reposiory
 
 ### Date created
 November 18, 2024
