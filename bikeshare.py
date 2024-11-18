@@ -1,3 +1,10 @@
+
+
+"""
+Change 3 for project 3
+Github Change 1 for GitHub post 
+"""
+
 import time
 import pandas as pd
 import numpy as np
